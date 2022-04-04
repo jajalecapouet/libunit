@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   01_basic_test.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: njaros <marvin@42.fr>                      +#+  +:+       +#+        */
+/*   By: njaros <njaros@student.42lyon.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/02 15:12:49 by njaros            #+#    #+#             */
-/*   Updated: 2022/04/02 15:28:10 by njaros           ###   ########lyon.fr   */
+/*   Updated: 2022/04/02 15:51:03 by njaros           ###   ########lyon.fr   */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "to_test.h"
+#include "libft.h"
 
 int	basic_test(void)
 {
